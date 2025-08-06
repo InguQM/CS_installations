@@ -1,0 +1,354 @@
+common:
+  OPX1000: True
+  ro_pow: -11
+  ro_len: 2.0e-6
+  drv_pow: 1
+  drv_len: 40e-9
+  ef_drv_len: 100e-9
+  integration_time: 2.0e-6
+  relaxation_time: 600e-6
+  tof: 396
+individual:
+  q1:
+    gate_freq: 5249556544.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7003442323.0
+    ro_amp: 0.06
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q2:
+    gate_freq: 5122958560.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7037069771.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q3:
+    gate_freq: 5124281929.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -280e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7075435696.0
+    ro_amp: 0.05
+    ro_phase: 282.2
+    ro_threshold: -1.168e-06
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q4:
+    gate_freq: 5079626617
+    gate_amp: 0.275
+    anharmonicity: -280e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7113865423.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q5:
+    gate_freq: 5101025543.0
+    gate_amp: 0.13127986251775836
+    anharmonicity: -280e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7153681663.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q6:
+    gate_freq: 5070173477.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7188283052.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q7:
+    gate_freq: 5247419935.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7230993422.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q8:
+    gate_freq: 5187667590.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7270908371.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q9:
+    gate_freq: 5190948819.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7310843311.0
+    ro_amp: 0.08
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 4.95e9
+    ro_lo_freq: 6.95e9
+  q10:
+    gate_freq: 5041698330.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 6996545462
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.10e9
+    ro_lo_freq: 6.95e9
+  q11:
+    gate_freq: 4916154327.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7035475236.0
+    ro_amp: 0.08
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.10e9
+    ro_lo_freq: 6.95e9
+  q12:
+    gate_freq: 5221747713.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7075785782
+    ro_amp: 0.12
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q13:
+    gate_freq: 4980402656.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7113505483
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q14:
+    gate_freq: 5200000000.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7150590613
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q15:
+    gate_freq: 5119986171.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7193471942.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q16:
+    gate_freq: 5248923269.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7229092605
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q17:
+    gate_freq: 5141846807.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7272445453.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q18:
+    gate_freq: 5041935703.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7307406463
+    ro_amp: 0.1
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 4.95e9
+    ro_lo_freq: 6.95e9
+  q19:
+    gate_freq: 5172550935.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 6996995562.0
+    ro_amp: 0.035
+    ro_phase: 90.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q20:
+    gate_freq: 5092045000.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7034691652.0
+    ro_amp: 0.035
+    ro_phase: 90.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q21:
+    gate_freq: 5031901414.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7071396291.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 4.95e9
+    ro_lo_freq: 6.95e9
+  q22:
+    gate_freq: 5034360000.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7110349889.0
+    ro_amp: 0.08
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 4.95e9
+    ro_lo_freq: 6.95e9
+  q23:
+    gate_freq: 5002898333.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7148817118.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 4.95e9
+    ro_lo_freq: 6.95e9
+  q24:
+    gate_freq: 5146283000.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7189122206.0
+    ro_amp: 0.05
+    ro_phase: 0.0
+    ro_threshold: 0e-06
+    drv_lo_freq: 4.95e9
+    ro_lo_freq: 6.95e9
+  q25:
+    gate_freq: 5204975021.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7228083795.0
+    ro_amp: 0.08
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.05e9
+    ro_lo_freq: 6.95e9
+  q26:
+    gate_freq: 5064823404.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7268808341
+    ro_amp: 0.12
+    ro_phase: 0.0
+    ro_threshold: 0e-06
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+  q27:
+    gate_freq: 5074111155.0
+    gate_amp: 0.18094255045080032
+    anharmonicity: -260e6
+    ac_det: 0.0e6
+    drag_beta: 0.0
+    ro_freq: 7307275079.0
+    ro_amp: 0.08
+    ro_phase: 0.0
+    ro_threshold: 0.0
+    drv_lo_freq: 5.00e9
+    ro_lo_freq: 6.95e9
+group:
+  # q0_q1:
+  #   gate_amp: 0.8
+  #   gate_len: 200e-9
+  # q1_q0:
+  #   gate_amp: 0.8
+  #   gate_len: 200e-9
+  q1_q2:
+    gate_amp: 0.8
+    gate_len: 200e-9
+  q2_q1:
+    gate_amp: 0.8
+    gate_len: 200e-9
+  q2_q3:
+    gate_amp: 0.8
+    gate_len: 200e-9
+  q3_q2:
+    gate_amp: 0.8
+    gate_len: 200e-9

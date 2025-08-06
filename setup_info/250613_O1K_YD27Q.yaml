@@ -1,0 +1,120 @@
+con1:
+  fems:
+    1:
+      ports:
+        1:
+          type: unused
+          qubit: q0
+        2:
+          type: unused
+          qubit: q0
+        3:
+          type: unused
+          qubit: q0
+        4:
+          type: unused
+          qubit: q0
+        5:
+          type: unused
+          qubit: q0
+        6:
+          type: unused
+          qubit: q0
+    2:
+      ports:
+        1:
+          type: drive
+          qubit: q8
+        2:
+          type: drive
+          qubit: q9
+        3:
+          type: drive
+          qubit: q18
+        4:
+          type: drive
+          qubit: q26
+        5:
+          type: drive
+          qubit: q27
+        6:
+          type: drive
+          qubit: q14
+    3:
+      ports:
+        1:
+          type: readout
+          qubits: [q1, q2, q3, q4, q5, q6, q7, q8, q9]
+        2:
+          type: drive
+          qubit: q1
+        3:
+          type: drive
+          qubit: q2
+        4:
+          type: drive
+          qubit: q3
+        5:
+          type: drive
+          qubit: q4
+        6:
+          type: drive
+          qubit: q5
+        7:
+          type: drive
+          qubit: q6
+        8:
+          type: drive
+          qubit: q7
+    4:
+      ports:
+        1:
+          type: readout
+          qubits: [q10, q11, q12, q13, q14, q15, q16, q17, q18]
+        2:
+          type: drive
+          qubit: q10
+        3:
+          type: drive
+          qubit: q11
+        4:
+          type: drive
+          qubit: q12
+        5:
+          type: drive
+          qubit: q13
+        6:
+          type: drive
+          qubit: q15
+        7:
+          type: drive
+          qubit: q16
+        8:
+          type: drive
+          qubit: q17
+    5:
+      ports:
+        1:
+          type: readout
+          qubits: [q19, q20, q21, q22, q23, q24, q25, q26, q27]
+        2:
+          type: drive
+          qubit: q19
+        3:
+          type: drive
+          qubit: q20
+        4:
+          type: drive
+          qubit: q21
+        5:
+          type: drive
+          qubit: q22
+        6:
+          type: drive
+          qubit: q23
+        7:
+          type: drive
+          qubit: q24
+        8:
+          type: drive
+          qubit: q25
